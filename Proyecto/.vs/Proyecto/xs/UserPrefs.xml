@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FB4638AD-C317-48C1-963F-355A9DF60A2E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Proyecto FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proyecto/Proyecto/MainPage.xaml">
+    <Files>
+      <File FileName="Proyecto/Proyecto/MainPage.xaml.cs" />
+      <File FileName="Proyecto/Proyecto/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Proyecto" expanded="True">
+            <Node name="Proyecto" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Medium_Phone_API_35" />
+  <MonoDevelop.Ide.ItemProperties.Proyecto.Android FirstBuild="True" PreferredExecutionTarget="Android.Medium_Phone_API_35" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.csproj.AssemblyReference.cache
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/Views/DashboardPage.xaml.g.cs
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.AssemblyInfoInputs.cache
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.AssemblyInfo.cs
+/Users/alejandro/Projects/Proyecto/Proyecto/Proyecto/obj/Debug/netstandard2.0/Proyecto.csproj.CoreCompileInputs.cache

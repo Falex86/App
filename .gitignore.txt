@@ -1,0 +1,22 @@
+# .NET build files
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.idea/
+.DS_Store
+
+# Local configuration and secrets
+appsettings.json
+appsettings.*.json
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Visual Studio user files
+*.user
+*.suo
